@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AgileApplication {
 
 	public static void main(String[] args) {
+		System.out.println(2131232);
 		SpringApplication.run(AgileApplication.class, args);
 	}
 
